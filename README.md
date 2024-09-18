@@ -1,0 +1,3 @@
+- Designed and implemented a Spring Boot application to manage customers, carts, products, and orders with real time price calculations and stock management.
+- Developed services for product management (CRUD), cart operations, and order placement, ensuring accurate pricing and stock validation.
+- Integrated historical price tracking, allowing customers to view product prices at the time of purchase even after price changes.
